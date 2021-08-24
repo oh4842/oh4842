@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 **🌱🌱--코린이--🌱🌱**
   - 💬 : 개발자의 진로를 아직 못 정했어요
   - 💬 : 학교는 열심히 다녀서 프로젝트만 만들었네요
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
