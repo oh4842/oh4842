@@ -1,4 +1,4 @@
-### Hi there~ ⚡[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foh4842%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=discord.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)⚡
+### Hi there~ ⚡[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foh4842&count_bg=%2379C83D&title_bg=%23000000&icon=discord.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)⚡
 ---
 <!--
 **oh4842/oh4842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh4842)](https://github.com/oh4842/github-readme-stats)
 
 
-
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/#007396-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
