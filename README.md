@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   - 💬 : 개발자의 진로를 아직 못 정했어요
   - 💬 : 학교는 열심히 다녀서 프로젝트만 만들었네요
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh4842&layout=compact)](https://github.com/oh4842/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh4842)](https://github.com/oh4842/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh4842&layout=compact)](https://github.com/oh4842/github-readme-stats)
+
 
