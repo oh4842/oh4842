@@ -1,4 +1,4 @@
-### 코린이의 Github 입니다 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foh4842%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=discord.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 코린이의 Github 입니다   ⚡[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foh4842%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=discord.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)⚡
 
 <!--
 **oh4842/oh4842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
