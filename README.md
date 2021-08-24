@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh4842)](https://github.com/oh4842/github-readme-stats)
+
+
