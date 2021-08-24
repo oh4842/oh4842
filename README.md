@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   - 💬 : 학교는 열심히 다녀서 프로젝트만 만들었네요
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oh4842)](https://github.com/oh4842/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oh4842&layout=compact)](https://github.com/oh4842/github-readme-stats)
 
