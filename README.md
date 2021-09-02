@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **🌱🌱--코린이--🌱🌱**
-  - 💬 :Back-End -> Cloude -> devops
+  - 💬 :Back-End -> Cloud -> devops
   - 💬 : -----------------------------
 ---
 **--Email--**
