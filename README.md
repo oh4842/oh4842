@@ -1,4 +1,4 @@
-### :man:Hi there~
+### :man:ImOctopus
 
 ---
 <!--
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **🌱🌱--코린이--🌱🌱**
-  - 💬 :Back-End -> Cloud -> devops
-  - 💬 : -----------------------------
+  - 💬 : Back-End -> Cloud -> devops
+  - 💬 : node.js ing...... -> restful api -> CI/CD -> devops
 ---
 **--Email--**
   - 💬 oh4842@gmail.com 💬
