@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 **🌱🌱--코린이--🌱🌱**
   - 💬 : Back-End -> Cloud -> devops
-  - 💬 : node.js ing...... -> restful api -> CI/CD -> devops
+  - 💬 : node.js ing...... -> restful api
 ---
 **--Email--**
   - 💬 oh4842@gmail.com 💬
