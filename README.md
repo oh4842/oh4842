@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **🌱🌱--코린이--🌱🌱**
-  - 💬 : Back-End -> Cloud -> devops
+  - 💬 : Back-End -> Cloud
   - 💬 : node.js ing...... -> restful api
 ---
 **--Email--**
